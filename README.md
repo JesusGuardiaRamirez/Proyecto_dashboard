@@ -4,7 +4,7 @@
 
 # Objetivo:
 
-  1. ETL
+  1. ETL (Extracción, Transformar y Cargar)
   2. EDA (Definir por escrto el objetivo)
   3. Dashboard (PowerBI, Tableau, Python)
   4. Storytelling 
