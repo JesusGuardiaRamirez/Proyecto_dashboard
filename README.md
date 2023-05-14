@@ -4,10 +4,10 @@
 
 ## Objetivo:
 
-  1. ETL (Extracción, Transformar y Cargar)
-  2. EDA (Definir por escrito el objetivo)
-  3. Dashboard (PowerBI, Tableau, Python)
-  4. Storytelling 
+  1. :o: ETL (Extracción, Transformar y Cargar)
+  2. :o: EDA (Definir por escrito el objetivo)
+  3. :o: Dashboard (PowerBI, Tableau, Python)
+  4. :o: Storytelling 
 
 
 
