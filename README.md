@@ -42,3 +42,9 @@ los datos de la pagina del ministerio del interior.
 
 
 
+![image](https://github.com/JesusGuardiaRamirez/Sharks-DataCleaning/assets/125477881/8987247b-e113-4b6c-ae93-2cd74ab74520)
+
+
+
+
+
