@@ -29,13 +29,13 @@ los datos de la pagina del ministerio del interior.
 
 
 
-  1. Llamadas anuales
-  2. Numero de denuncias
-  3. Numero de denuncias por CCAA
-  4. Llamadas pertinentes por provincia
-  5. Llamantes
-  6. Hijos huerfanos
-  7. Victimas de suicidio.
+ :arrow_forward: 1. Llamadas anuales
+ :arrow_forward: 2. Numero de denuncias
+ :arrow_forward: 3. Numero de denuncias por CCAA
+ :arrow_forward: 4. Llamadas pertinentes por provincia
+ :arrow_forward: 5. Llamantes
+ :arrow_forward: 6. Hijos huerfanos
+ :arrow_forward: 7. Victimas de suicidio.
 
 
 
