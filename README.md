@@ -1,4 +1,4 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+'![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 ### Proyecto_dashboard
 
@@ -24,9 +24,19 @@ Para el ETL (Extrar, Transformar y Cargar) utilizo el documento ya extraido del 
 
 
 
-El dashboard que utilizo es el siguiente y asi poder narrar la historia. 
+El dashboard que utilizo es el siguiente y asi poder narrar la historia, mi objetivo es ver una estadisitica más clara de como son los datos obtenidos de las paginas webs, para su clara visualización, para ello he cogido
+los datos de la pagina del ministerio del interior. 
 
 
 
-Mi objetivo es ver una estadisitica más clara de como son los datos obtenidos de las paginas webs, para su clara visualización. 
+  1. Llamadas anuales
+  2. Numero de denuncias
+  3. Numero de denuncias por CCAA
+  4. Llamadas pertinentes por provincia
+  5. Llamantes
+  6. Hijos huerfanos
+  7. Victimas de suicidio.
+
+
+
 
