@@ -48,3 +48,21 @@ los datos de la pagina del ministerio del interior.
 
 
 
+
+
+
+![image](https://github.com/JesusGuardiaRamirez/Sharks-DataCleaning/assets/125477881/e66d1218-bdd5-465c-aed7-53fd25a3ca4c)
+
+
+
+![image](https://github.com/JesusGuardiaRamirez/Sharks-DataCleaning/assets/125477881/82e083a6-4428-4fec-9edf-30c41818f333)
+
+
+
+
+![image](https://github.com/JesusGuardiaRamirez/Sharks-DataCleaning/assets/125477881/b342ac2d-a476-4348-8821-1f8fd9501353)
+
+
+
+
+![image](https://github.com/JesusGuardiaRamirez/Sharks-DataCleaning/assets/125477881/80cb8624-8934-4a16-ae74-04026270ab48)
