@@ -20,8 +20,8 @@ Para el ETL (Extrar, Transformar y Cargar) utilizo el documento ya extraido del 
 
 
 
+![Captura de pantalla 2023-05-14 a las 18 24 13](https://github.com/JesusGuardiaRamirez/Proyecto_dashboard/assets/125477881/221dc026-3e9d-4a50-ab64-f1400479af74)
 
-(https://github.com/JesusGuardiaRamirez/Proyecto_4_ETL_Violencia/assets/125477881/218f24cb-a12c-4752-97fe-739e96354430)
 
 
 El dashboard que utilizo es el siguiente y asi poder narrar la historia. 
