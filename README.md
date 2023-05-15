@@ -69,27 +69,20 @@ Tipos de denuncias registradas;
  5. etc...
 
 
+Despues de haber hablado de esto, también repercute en el número de suicidios que lamentablemente coge espacio en estos datos, de los cuales hay al rededor de 13% hay tentativa no consumada y un 20.52% suicidio consumado.
+
+A raiz de esto, hay un numero muy elevado de niños que se quedan huerfanos por culpa del maltrato. 393 casos han sido registrados.
+
+Mirando a un futuro, este proyecto sigue de cara al proyecto final.
+
+
+Por una vida mas justa.
 
 
 
 
 
+'![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 
 
-
-![image](https://github.com/JesusGuardiaRamirez/Sharks-DataCleaning/assets/125477881/e66d1218-bdd5-465c-aed7-53fd25a3ca4c)
-
-
-
-![image](https://github.com/JesusGuardiaRamirez/Sharks-DataCleaning/assets/125477881/82e083a6-4428-4fec-9edf-30c41818f333)
-
-
-
-
-![image](https://github.com/JesusGuardiaRamirez/Sharks-DataCleaning/assets/125477881/b342ac2d-a476-4348-8821-1f8fd9501353)
-
-
-
-
-![image](https://github.com/JesusGuardiaRamirez/Sharks-DataCleaning/assets/125477881/80cb8624-8934-4a16-ae74-04026270ab48)
